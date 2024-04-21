@@ -1,4 +1,5 @@
-.idea/
+/.bootstrap/
+/.idea/
 *.iml
 *.iws
 *.eml
